@@ -1,0 +1,5 @@
+[midea]
+registry=http://npm.midea.com:7001/
+
+[github]
+registry=https://npm.pkg.github.com/
