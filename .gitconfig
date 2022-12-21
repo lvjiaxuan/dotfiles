@@ -1,5 +1,5 @@
 [user]
-  name = lvjx7
+  name = lvjiaxuan
   email = 471501748@qq.com
 [alias]
   ac = !git add . && git commit -m
